@@ -1,6 +1,8 @@
 # Introduction to Object Oriented Programming
 (2 hours including the Lab)
 
+![OOP](images/oop.jpg)
+
 ## Learning Objectives - IWBAT
 ### Concepts
 
